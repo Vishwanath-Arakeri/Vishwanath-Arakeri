@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishwanath-Arakeri 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine learning 
+- 💞️ I’m looking to collaborate on Machine learning projects
 - 📫 How to reach me vishwanathsa2206@gmail.com
 
 <!---
